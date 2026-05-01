@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "baskar-fd63f-57e1f",
     "public": "build",
     "ignore": [
       "firebase.json",
