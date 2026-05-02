@@ -63,7 +63,7 @@ const Navbar = () => {
                   className="mx-2 border px-4 py-2 rounded-2xl border-purple-950 hover:border-purple-400 hover:border-dashed  text-purple-400 font-bold shadow-2xl hover:text-white hidden md:block"
                   href=""
                 >
-                  Leaderboard
+                  Leaderboard 1
                 </a>
                 <a
                   className="mx-2 border px-4 py-2 rounded-2xl border-purple-950 hover:border-purple-400 hover:border-dashed  text-purple-400 font-bold shadow-2xl hover:text-white hidden md:block"
